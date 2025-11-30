@@ -1,4 +1,4 @@
-page 90002 "Azure Audio Card"
+page 90002 "Azure Audio Setup"
 {
     ApplicationArea = All;
     Caption = 'Azure Audio';
